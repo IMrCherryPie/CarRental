@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/79526/CLionProjects/CarRental/Motorcycle.h
+string
+-
+Vehicle.h
+C:/Users/79526/CLionProjects/CarRental/Vehicle.h
+
+C:/Users/79526/CLionProjects/CarRental/Vehicle.h
+cstring
+-
+
+C:/Users/79526/CLionProjects/CarRental/main.cpp
+fstream
+-
+iostream
+-
+iterator
+-
+vector
+-
+cstring
+-
+ctime
+-
+tuple
+-
+cstdlib
+-
+Vehicle.h
+C:/Users/79526/CLionProjects/CarRental/Vehicle.h
+Motorcycle.h
+C:/Users/79526/CLionProjects/CarRental/Motorcycle.h
+cstdint
+-
+chrono
+-
+random
+-
+

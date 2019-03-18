@@ -1,0 +1,26 @@
+﻿  CarRental.cpp
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(5): error C3646: Type: неизвестный спецификатор переопределения
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(6): error C3646: Brand: неизвестный спецификатор переопределения
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(8): error C3646: Color: неизвестный спецификатор переопределения
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(9): error C3646: Number: неизвестный спецификатор переопределения
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(9): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(13): error C2061: синтаксическая ошибка: идентификатор "string"
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(15): error C2039: Brand: не является членом "Vehicle"
+  c:\users\admin\source\repos\carrental\carrental\vehicle.h(2): note:  см. объявление "Vehicle"
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(15): error C2065: Value1: необъявленный идентификатор
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(16): error C2065: Value2: необъявленный идентификатор
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(17): error C2039: Color: не является членом "Vehicle"
+  c:\users\admin\source\repos\carrental\carrental\vehicle.h(2): note:  см. объявление "Vehicle"
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(17): error C2065: Value3: необъявленный идентификатор
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(18): error C2039: Number: не является членом "Vehicle"
+  c:\users\admin\source\repos\carrental\carrental\vehicle.h(2): note:  см. объявление "Vehicle"
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(18): error C2065: Value4: необъявленный идентификатор
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(19): error C2065: Value5: необъявленный идентификатор
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(20): error C2039: Type: не является членом "Vehicle"
+  c:\users\admin\source\repos\carrental\carrental\vehicle.h(2): note:  см. объявление "Vehicle"
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(20): error C2065: Value6: необъявленный идентификатор
+c:\users\admin\source\repos\carrental\carrental\vehicle.h(21): error C2562: Vehicle::SetBrand: функция типа "void", возвращающая значение
+  c:\users\admin\source\repos\carrental\carrental\vehicle.h(13): note:  см. объявление "Vehicle::SetBrand"
